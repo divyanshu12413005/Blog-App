@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Blog App</string>
+    <string name="blog">BLOG.</string>
+    <string name="design_by">Design by\nDivyanshu Singh Chauhan</string>
+    <string name="share_your_story_with_us">Share your Story\nwith us.</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="new_here">New here?</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="enter_email_to_reset">Enter your email to reset password</string>
+    <string name="verify_email">Verify Email</string>
+    <string name="enter_verification_code">Enter verification code</string>
+    <string name="verify">Verify</string>
+    <string name="resend_code">Resend Code</string>
+</resources>
